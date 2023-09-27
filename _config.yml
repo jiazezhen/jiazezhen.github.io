@@ -93,10 +93,10 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: jiazezhen/jiazezhen.github.io # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
+    repo_id: 
+    category: "Announcements"
+    category_id: "blogs-comments"
+    mapping: pathname # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
