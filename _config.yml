@@ -93,7 +93,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: jiazezhen/jiazezhen.github.io # <gh-username>/<repo>
-    repo_id: 
+    repo_id: jiazezhen.github.io
     category: "Announcements"
     category_id: "blogs-comments"
     mapping: pathname # optional, default to 'pathname'
